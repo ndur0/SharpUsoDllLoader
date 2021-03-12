@@ -1,6 +1,6 @@
 # SharpUsoDllLoader
 
-This is just my attempt to create a C# version (part of the journey to learn C#) of Clement Labro's (itm4n) UsoDllLoader project based on his awesome research.  
+C# version (part of the journey to learn C#) of Clement Labro's (itm4n) UsoDllLoader project based on his awesome research.  
 
 All credit to Clement Labro (itm4n)  
 For more information:  
